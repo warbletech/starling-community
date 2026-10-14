@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "starling-community",
+  "version": "0.1.0",
+  "description": "Read-only Starling Community MCP for Grok and Antigravity. Talks to the public Starling Lite demo.",
+  "author": {
+    "name": "Warble",
+    "email": "contact@warblecloud.com",
+    "url": "https://warbleoss.org"
+  },
+  "homepage": "https://mcp.warbleoss.org",
+  "repository": "https://github.com/warbletech/starling-community",
+  "license": "Apache-2.0",
+  "keywords": ["starling", "mcp", "kubernetes", "warble", "community"]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "starling-community": {
+      "type": "streamable-http",
+      "url": "https://mcp.warbleoss.org/mcp"
+    }
+  }
+}
