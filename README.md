@@ -23,6 +23,8 @@ Confirm with `tools/list`. As of the public demo:
 
 `scale_deployment`, `delete_pod`, and `apply_remediation` are not on this host.
 
+Milestones: [MILESTONES.md](MILESTONES.md).
+
 ## License
 
 Apache-2.0. See [LICENSE](LICENSE).
